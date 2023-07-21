@@ -1,0 +1,1 @@
+export const main = <link rel="stylesheet" href="./main.css" />

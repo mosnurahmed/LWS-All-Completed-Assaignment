@@ -1,0 +1,7 @@
+const ADD_MATCH = "ADD_MATCH";
+const INCREMENT = "INCREMENT";
+const DECREMENT = "DECREMENT";
+const DELETE = "DELETE"
+const RESET = "RESET";
+
+export const actionType = { ADD_MATCH, INCREMENT, DECREMENT, RESET,DELETE };
